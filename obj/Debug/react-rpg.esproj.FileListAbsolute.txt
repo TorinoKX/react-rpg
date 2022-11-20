@@ -1,0 +1,2 @@
+C:\Users\Zak\source\repos\fullstack-rpg\react-rpg\obj\Debug\react-rpg.esproj.SuggestedBindingRedirects.cache
+C:\Users\Zak\source\repos\fullstack-rpg\react-rpg\obj\Debug\react-rpg.esproj.CoreCompileInputs.cache
